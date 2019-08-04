@@ -1,4 +1,5 @@
 public class JavaSubstringComparisons {
+    // "Given a string, , and an integer, , complete the function so that it finds the lexicographically smallest and largest substrings of length . " - HackerRank
     public static void main( String[] args ){
         // taken from scanner, which was already in hackerrank challenge i won't copy it
         int k = 3;
