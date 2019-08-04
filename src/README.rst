@@ -8,6 +8,5 @@ Table of Contents
 =================
 
 Language proficiency: Java
-```
-JavaSubstringComparisons
-```
+
+1. JavaSubstringComparisons
