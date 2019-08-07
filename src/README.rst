@@ -9,6 +9,7 @@ Table of Contents
 
 Language proficiency: Java
 
+
 1. JavaSubstringComparisons
 
 2. JavaStringReverse
