@@ -11,3 +11,5 @@ Language proficiency: Java
 
 1. JavaSubstringComparisons
 2. JavaStringReverse
+3. JavaAnagrams (using HashMaps)
+3. JavaAnagrams2 (using simple arrays and loops)
