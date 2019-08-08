@@ -5,7 +5,7 @@ Here i will post solution for HackerRank challenges, java files names are same a
 
 All scanner inputs from original HackerRank exercises will be changed to hard coded one,
 
-Each of exercise will be stand alone java file with '''public static void main(String[] args)''' method in one src folder
+Each of exercise will be stand alone java file with ``public static void main(String[] args)`` method in one src folder
 
 =================
 Table of Contents
