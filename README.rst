@@ -10,10 +10,11 @@ They aren't numerated like on HackerRank, i just put here one that are from arou
 Table of Folders
 =================
 
-java = [Java](java)
+java =  Java_.
 
-python = [Python](python)
+python =  Python_.
 
-
+.. _Python: python/ 
+.. _Java: java/ 
 
 
