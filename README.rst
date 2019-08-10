@@ -10,9 +10,9 @@ They aren't numerated like on HackerRank, i just put here one that are from arou
 Table of Folders
 =================
 
-java =  Java_.
+java =  Java_
 
-python =  Python_.
+python =  Python_
 
 .. _Python: python/ 
 .. _Java: java/ 
