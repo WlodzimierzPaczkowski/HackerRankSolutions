@@ -14,15 +14,15 @@ Table of Contents
 Language proficiency: Java
 
 
-1. `Java Substring Comparisons`_.
+1. `Java Substring Comparisons`_
 
-2. `Java String Reverse`_.
+2. `Java String Reverse`_
 
-3. `Java Anagrams (using HashMaps)`_.
+3. `Java Anagrams (using HashMaps)`_
 
-4. `Java Anagrams2 (using simple arrays and loops)`_.
+4. `Java Anagrams2 (using simple arrays and loops)`_
 
-5. `Java String Tokens`_.
+5. `Java String Tokens`_
 
 .. _`Java Substring Comparisons`: JavaSubstringComparisons.java
 .. _`Java String Reverse`: JavaStringReverse.java 

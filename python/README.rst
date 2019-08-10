@@ -15,7 +15,10 @@ Table of Contents
 Language proficiency: Python
 
 
-1. `IterablesAndIterators`_.
+1. `IterablesAndIterators`_
+2. `CollectionsCounter()`_
+3. `CollectionsCounter()2`_
 
 .. _`IterablesAndIterators`: IterablesAndIterators.py
-
+.. _`CollectionsCounter()`: CollectionsCounter().py
+.. _`CollectionsCounter()2`: CollectionsCounter()2.py
