@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.regex.*;
+import java.io.File;
 
 public class PatternSyntaxChecker {
     /**
@@ -12,7 +13,10 @@ public class PatternSyntaxChecker {
 
 
         public static void main(String[] args){ // this part is pre made in exercise
-            Scanner in = new Scanner(System.in); // this part is pre made in exercise
+            Scanner in = new Scanner("3\n" +
+                                            "([A-Z])(.+)\n" +
+                                            "[AZ[a-z](a-z)\n" +
+                                            "batcatpat(nat"); // changed from pre made exercise to string from system.in
             int testCases = Integer.parseInt(in.nextLine()); // this part is pre made in exercise
 
             while(testCases>0){ // this part is pre made in exercise
