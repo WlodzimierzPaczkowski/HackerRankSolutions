@@ -23,8 +23,11 @@ Language proficiency: Python
 2. `CollectionsCounter()`_
 3. `CollectionsCounter()2`_
 4. `Polar Coordinates`_
+5. `IntroductionToSets`_
 
 .. _`IterablesAndIterators`: IterablesAndIterators.py
 .. _`CollectionsCounter()`: CollectionsCounter().py
 .. _`CollectionsCounter()2`: CollectionsCounter()2.py
 .. _`Polar Coordinates`: PolarCoordinates.py
+.. _`IntroductionToSets`: IntroductionToSets.py
+
