@@ -26,9 +26,12 @@ Language proficiency: Java
 
 6. `PatternSyntaxChecker`_
 
+7. `JavaRegex`_
+
 .. _`Java Substring Comparisons`: JavaSubstringComparisons.java
 .. _`Java String Reverse`: JavaStringReverse.java 
 .. _`Java Anagrams (using HashMaps)`: JavaAnagrams.java 
 .. _`Java Anagrams2 (using simple arrays and loops)`: JavaAnagrams2.java
 .. _`Java String Tokens`: JavaStringTokens.java
 .. _`PatternSyntaxChecker`: PatternSyntaxChecker.java
+.. _`JavaRegex`: JavaRegex.java
