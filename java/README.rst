@@ -28,6 +28,8 @@ Language proficiency: Java
 
 7. `JavaRegex`_
 
+8. `ValidUsernameRegularExpression.java`_
+
 .. _`Java Substring Comparisons`: JavaSubstringComparisons.java
 .. _`Java String Reverse`: JavaStringReverse.java 
 .. _`Java Anagrams (using HashMaps)`: JavaAnagrams.java 
@@ -35,3 +37,4 @@ Language proficiency: Java
 .. _`Java String Tokens`: JavaStringTokens.java
 .. _`PatternSyntaxChecker`: PatternSyntaxChecker.java
 .. _`JavaRegex`: JavaRegex.java
+.. _`ValidUsernameRegularExpression.java`: ValidUsernameRegularExpression.java
