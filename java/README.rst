@@ -30,6 +30,8 @@ Language proficiency: Java
 
 8. `ValidUsernameRegularExpression.java`_
 
+9. `JavaBigDecimal`_
+
 .. _`Java Substring Comparisons`: JavaSubstringComparisons.java
 .. _`Java String Reverse`: JavaStringReverse.java 
 .. _`Java Anagrams (using HashMaps)`: JavaAnagrams.java 
@@ -38,3 +40,4 @@ Language proficiency: Java
 .. _`PatternSyntaxChecker`: PatternSyntaxChecker.java
 .. _`JavaRegex`: JavaRegex.java
 .. _`ValidUsernameRegularExpression.java`: ValidUsernameRegularExpression.java
+.. _`JavaBigDecimal`: JavaBigDecimal.java
