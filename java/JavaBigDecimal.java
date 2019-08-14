@@ -49,7 +49,8 @@ class JavaBigDecimal{
             // Comparator method of sort, while arrays.sort it take as argument array we
             // want to sort, and Comparator, here i use lambda function to type logic of
             // comparing two string object based on exercise objective, comparing it value as big decimals
-                }
+            //TODO study more of lambda expression, streams, overwriting methods using them
+        }
         );
 //////////////////////////////////////////////// end of editable part }
 
