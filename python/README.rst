@@ -31,4 +31,4 @@ Language proficiency: Python
 .. _`Polar Coordinates`: PolarCoordinates.py
 .. _`IntroductionToSets`: IntroductionToSets.py
 
-[Back](https://github.com/WlodzimierzPaczkowski/HackerRankSolutions/blob/master/README.rst)
+[Back](https://github.com/WlodzimierzPaczkowski/HackerRankSolutions/blob/master/)
