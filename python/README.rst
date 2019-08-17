@@ -25,8 +25,6 @@ Language proficiency: Python
 4. `Polar Coordinates`_
 5. `IntroductionToSets`_
 
-[a link](https://github.com/WlodzimierzPaczkowski/HackerRankSolutions/blob/master/README.rst)
-
 .. _`IterablesAndIterators`: IterablesAndIterators.py
 .. _`CollectionsCounter()`: CollectionsCounter().py
 .. _`CollectionsCounter()2`: CollectionsCounter()2.py
