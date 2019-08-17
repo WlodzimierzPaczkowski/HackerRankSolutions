@@ -25,7 +25,7 @@ Language proficiency: Python
 4. `Polar Coordinates`_
 5. `IntroductionToSets`_
 
- `Back`_
+`Back`_
 
 .. _`IterablesAndIterators`: IterablesAndIterators.py
 .. _`CollectionsCounter()`: CollectionsCounter().py
