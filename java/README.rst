@@ -34,6 +34,8 @@ Language proficiency: Java
 
 10. `LambdaAndStream (First "Note Program", lambda expression, stream and creation of cipher for fun)`_
 
+`Back`_
+
 .. _`Java Substring Comparisons`: JavaSubstringComparisons.java
 .. _`Java String Reverse`: JavaStringReverse.java 
 .. _`Java Anagrams (using HashMaps)`: JavaAnagrams.java 
@@ -44,3 +46,5 @@ Language proficiency: Java
 .. _`ValidUsernameRegularExpression.java`: ValidUsernameRegularExpression.java
 .. _`JavaBigDecimal`: JavaBigDecimal.java
 .. _`LambdaAndStream (First "Note Program", lambda expression, stream and creation of cipher for fun)`: LambdaAndStream.java
+
+.. _`Back`: ../README.rst
