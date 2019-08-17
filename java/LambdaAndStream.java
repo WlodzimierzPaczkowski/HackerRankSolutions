@@ -34,7 +34,7 @@ public class LambdaAndStream {
     System.out.println("After encryption my testint is: " + testint + " so when i decrypt it i have: " + otherint);
 
     // test phrase
-    String testString = "This is simple test string used for encrypting and decrypting small cipher";
+    String testString = "This is simple test string used for encrypting and decrypting this small cipher";
 
     // first step of encryption, changing from string to char array and shifting all values minus int shift value
     int[] enc = testString.chars()
