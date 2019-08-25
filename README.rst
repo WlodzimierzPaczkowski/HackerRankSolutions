@@ -20,9 +20,12 @@ Table of Folders
 
 java =  Java_
 
+javaTestCases = JavaTestCases_
+
 python =  Python_
 
 .. _Python: python/ 
-.. _Java: java/ 
+.. _Java: java/
+.. _JavaTestCases: javaTestCases/
 
 
