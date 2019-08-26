@@ -1,8 +1,4 @@
-import org.junit.Assert;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestInstance;
-
-import static junit.framework.TestCase.*;
 import static org.junit.Assert.assertEquals;
 
 
@@ -65,7 +61,9 @@ class RegionTest {
         assertEquals(region.yourNationalFlower().whatsYourName(), returnClass.whatsYourName());
     }
 }
-/* //////////// not working part
+/*  there seems to be no reason to test if those method return instance of classes,
+    also those tests while same as region test dosen't work because they return needed type
+    which cause some java error
 class AndhraPradesh {
     @Test
     void yourNationalFlower() {
