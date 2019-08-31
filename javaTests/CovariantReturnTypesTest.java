@@ -1,3 +1,5 @@
+import org.junit.Before;
+import org.junit.BeforeClass;
 import org.junit.jupiter.api.Test;
 import static org.junit.Assert.assertEquals;
 
@@ -55,16 +57,16 @@ class RegionTest {
         //When
         Region region = new Region();
 
+
         // Then (i decided to test if region return correct flower by
         // comparing whatsYourName() method of object given back by region and whatsYourName()
         // method of instance of class region should return
         assertEquals(region.yourNationalFlower().whatsYourName(), returnClass.whatsYourName());
     }
 }
-/*  there seems to be no reason to test if those method return instance of classes,
-    also those tests while same as region test dosen't work because they return needed type
-    which cause some java error
-class AndhraPradesh {
+// tests fixed, i forget to put "Test" at end of class, so junit didn't work correctly, which explain why same
+// logic used in region test work but here it didn't
+class AndhraPradeshTest {
     @Test
     void yourNationalFlower() {
         //Given
@@ -73,16 +75,13 @@ class AndhraPradesh {
         //When
         AndhraPradesh region = new AndhraPradesh();
 
+
         // Then
-        boolean regionGiveLily = false;
-        if(region.yourNationalFlower()instanceof Lily){
-            regionGiveLily = true;
-        }
-        assertEquals(regionGiveLily, true);
+        assertEquals(region.yourNationalFlower().whatsYourName(), returnClass.whatsYourName() );
     }
 }
 
-class WestBengal {
+class WestBengalTest {
     @Test
 
     void yourNationalFlower() {
@@ -93,10 +92,10 @@ class WestBengal {
         WestBengal region = new WestBengal();
 
         // Then
-        Assert.assertEquals(region.yourNationalFlower().whatsYourName(), returnClass.whatsYourName() );
+        assertEquals(region.yourNationalFlower().whatsYourName(), returnClass.whatsYourName() );
     }
 }
-*/
+
 //this is only for sake of knowing which exercises this test belong to
 class CovariantReturnTypesTest {
 }
